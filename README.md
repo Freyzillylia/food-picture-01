@@ -1,8 +1,9 @@
-# food-picture-01 — Sizzling Cast-Iron Skillet Chicken Fajitas with Charred Peppers and Fresh Guacamole
+# food-picture-01 — Classic Crispy Duck Confit with Sour Cherry Port Glaze & Pommes Sarladaises
 
-High-aesthetic, photorealistic culinary photograph for make.fun competition food-picture-01.
+Michelin-grade ultra-photorealistic macro culinary photograph for make.fun competition food-picture-01.
 
-- **Dish**: Sizzling Cast-Iron Skillet Chicken Fajitas with Charred Peppers and Fresh Guacamole
+- **Cuisine**: French Bistro
+- **Dish**: Classic Crispy Duck Confit with Sour Cherry Port Glaze & Pommes Sarladaises
 - **Resolution**: 1024x1024
-- **Format**: JPEG (high efficiency, color-optimized)
-- **Asset**: `sizzling-cast-iron-fajitas.jpg`
+- **Format**: JPEG (color-optimized macro)
+- **Asset**: `duck-confit-sour-cherry-glaze.jpg`
